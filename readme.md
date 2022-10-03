@@ -1,4 +1,4 @@
-Code, interactive Cohort Network, and video demonstration will be available once the paper is accepted. \
+Code, interactive Cohort Network, and video demonstration will be available once the paper is accepted or upon request to: ys3419@cumc.columbia.edu.\
 
 
 Cohort Network: a knowledge graph towards open science and knowledge-driven discovery for cohort studies\
