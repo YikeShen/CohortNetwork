@@ -1,3 +1,6 @@
+Code, interactive Cohort Network, and video demonstration will be available once the paper is accepted. \
+
+
 Cohort Network: a knowledge graph towards open science and knowledge-driven discovery for cohort studies\
 Yike Shen1, Marianthi-Anna Kioumourtzoglou1, Haotian Wu1, Pantel Vokonas2,3, Avron Spiro 3rd2,4, Ana Navas-Acien1, Andrea A. Baccarelli1, Feng Gao1*
 
