@@ -1,5 +1,6 @@
-Code, interactive Cohort Network, and video demonstration will be available once the paper is accepted or upon request to: ys3419@cumc.columbia.edu.\
+For confidentiality and copy right before publication, code, interactive Cohort Network, and video demonstration is available once the paper is accepted or upon request to: ys3419@cumc.columbia.edu.\
 
+manuscript currently in revision at ES&T.
 
 Cohort Network: a knowledge graph towards open science and knowledge-driven discovery for cohort studies\
 Yike Shen1, Marianthi-Anna Kioumourtzoglou1, Haotian Wu1, Pantel Vokonas2,3, Avron Spiro 3rd2,4, Ana Navas-Acien1, Andrea A. Baccarelli1, Feng Gao1*
