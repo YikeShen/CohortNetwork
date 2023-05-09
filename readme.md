@@ -5,7 +5,7 @@ Yike Shen, Marianthi-Anna Kioumourtzoglou, Haotian Wu, Pantel Vokonas, Avron Spi
 
 Main: Department of Environmental Health Sciences, Mailman School of Public Health, Columbia University, New York, New York 10032, United States
 
-Contact: 
+Contact: \
 Dr. Yike Shen, Email: ys3419@cumc.columbia.edu\
 Dr. Feng Gao, Email: fg2539@cumc.columbia.edu
 
